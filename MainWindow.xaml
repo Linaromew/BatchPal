@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BatchPaletter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="250" Width="500" AllowDrop="True" DragOver="Window_DragOver" Drop="Window_Drop" ResizeMode="NoResize">
+        Title="BatchPal" Height="250" Width="500" AllowDrop="True" DragOver="Window_DragOver" Drop="Window_Drop" ResizeMode="NoResize">
     <TextBlock HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="Drop PNG files to generate starting palette" VerticalAlignment="Center"/>
 
 </Window>
